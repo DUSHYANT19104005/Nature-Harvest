@@ -1,0 +1,44 @@
+Nature Harvest Website Audit
+
+Website Improvements
+
+I tried to improved the Nature Harvest website to make it simple, responsive, and easy to use.
+
+1. Design & UI
+
+* Clean and simple layout.
+* Clear navigation menu.
+* Added product cards.
+* Added clear buttons like View Products and Request a Quote.
+
+2. Responsive Design
+
+* Website works on desktop, tablet, and mobile.
+* Added a mobile hamburger menu.
+* Product cards and contact form adjust on smaller screens.
+
+3. Contact & Enquiry
+
+* Added a Contact / Request a Quote page.
+* Added enquiry form with basic validation.
+* Added WhatsApp contact option.
+
+4. Accessibility & SEO
+
+* Added alt text to images.
+* Added proper form labels.
+* Added meta description and viewport settings.
+
+5. Other Improvements
+
+* Added FAQ section.
+* Added footer with useful links.
+* Removed duplicate CSS code.
+* Added JavaScript for form validation and mobile menu.
+
+Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* VS Code
